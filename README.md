@@ -1,3 +1,4 @@
-# My Portfolio Website
+# Al Hera Ahmad's Portfolio
 
-in making....
+This is my personal portfolio.
+I am Final Year Computer Engineering Student from ZHCET, AMU.
