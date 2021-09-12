@@ -21,6 +21,14 @@ body {
     margin :auto ;
     text-align: center;
 }
+.hero {
+    padding: 2rem;
+}
+.hero-image  {
+    max-width: 500px;
+    display: block ;
+    margin: auto ;
+}
 li {
     padding: 1rem;
     text-align: left;
